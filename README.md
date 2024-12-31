@@ -20,11 +20,3 @@ Welcome to the Real Estate Listing Platform! This web application allows users t
 - **APIs:** RESTful APIs for data communication
 - **Hosting:** Render for backend and Vercel for frontend
 
----
-
-## 🚧 Installation & Setup
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/real-estate-platform.git
-   cd real-estate-platform
